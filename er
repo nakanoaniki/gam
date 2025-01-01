@@ -1,0 +1,6 @@
+fatal: remote origin already exists.
+ERROR: Permission to nakanoaniki/gam.git denied to deploy key
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
